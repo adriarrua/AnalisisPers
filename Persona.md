@@ -3,7 +3,7 @@
 
 ## Cuáles son sus características?
 
-  ++Carlos++:
+#### Carlos:
   
 -	30 años
 -	Trabaja
